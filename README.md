@@ -1,6 +1,6 @@
 
 <h1 align="right">MD MAKSUD HASAB BISHAL   <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="40px"/> </h1>
-<h3 align="center">Software Developer | Python | Dajango | React.js | Next.js</h3>
+<h3 align="center">Backend Developer | Python | Dajango | Django REST Framework</h3>
 <hr>
 <div align="center">
   <a href="https://www.linkedin.com/in/maksud-hasan/" target="_blank">
